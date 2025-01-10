@@ -21,4 +21,4 @@ A simple, elegant Pomodoro timer web application to help you stay focused and ma
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (ES6+) 
+- JavaScript (ES6+) # pomodoro
