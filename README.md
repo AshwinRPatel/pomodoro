@@ -9,9 +9,10 @@ A simple, elegant Pomodoro timer web application to help you stay focused and ma
 - Clean, modern interface
 - Audio notification when timer completes
 - Pause and reset functionality
+- Mobile responsive design
 
 ## Live Demo
-[View the live demo](https://YOUR_USERNAME.github.io/pomodoro-timer)
+[View the live demo](https://YOUR_USERNAME.github.io/pomodoro)
 
 ## Setup
 1. Clone this repository
@@ -21,4 +22,4 @@ A simple, elegant Pomodoro timer web application to help you stay focused and ma
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (ES6+) # pomodoro
+- JavaScript (ES6+)
